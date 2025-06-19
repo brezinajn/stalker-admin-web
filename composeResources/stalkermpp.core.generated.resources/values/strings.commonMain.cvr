@@ -23,9 +23,11 @@ string|label_delete|U21hemF0
 string|label_detail|RGV0YWls
 string|label_get_notifications|RG9zdMOhdmF0IG5vdGlmaWthY2U=
 string|label_groups|U2t1cGlueQ==
+string|label_incoming|UMWZw61jaG96w60=
 string|label_leave|T2RlasOtdA==
 string|label_loading|TmFocsOhdsOhbeKApg==
 string|label_name|Sm3DqW5v
+string|label_outgoing|T2RjaG96w60=
 string|label_owned|Vmxhc3Ruw60=
 string|label_perex|UGVyZXg=
 string|label_shaer_location|U2TDrWxldCBwb2xvaHU=
